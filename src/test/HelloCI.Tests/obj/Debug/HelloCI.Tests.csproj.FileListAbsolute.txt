@@ -42,3 +42,5 @@ E:\PluralSight\HelloCI\src\test\HelloCI.Tests\bin\Debug\System.Web.WebPages.Depl
 E:\PluralSight\HelloCI\src\test\HelloCI.Tests\obj\Debug\HelloCI.Tests.csprojResolveAssemblyReference.cache
 E:\PluralSight\HelloCI\src\test\HelloCI.Tests\obj\Debug\HelloCI.Tests.dll
 E:\PluralSight\HelloCI\src\test\HelloCI.Tests\obj\Debug\HelloCI.Tests.pdb
+E:\PluralSight\HelloCI\src\test\HelloCI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\PluralSight\HelloCI\src\test\HelloCI.Tests\bin\Debug\Microsoft.Web.Infrastructure.xml
